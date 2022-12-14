@@ -1,0 +1,16 @@
+#{
+    padding: auto;
+    margin: auto;
+}
+
+
+.header {
+    display: flex;
+    flex-direction: row;
+    background-color: bisque ;
+   
+}
+
+.menu{
+    flex-direction: row;
+}
